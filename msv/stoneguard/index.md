@@ -1,3 +1,9 @@
+---
+title: "Stoneguard for losers"
+layout: default
+date: 2025-08-13
+---
+
 ## Strategy Overview (Heroic Stack + Energized Tiles)
 
 This fight uses the “stack” strategy: all active Guardians are stacked together to maximize cleave damage and efficiently manage mechanics. In Heroic mode, Guardians and mechanics hit much harder, so precision, cooldown usage, and movement are key. Heroic also introduces **Living Crystals** next to each Guardian—clicking them empowers tiles on the floor, giving the raid a stacking **Damage & Spirit buff** (reset at 75% and 40% boss health). Assign mobile ranged players to “paint” tiles to boost your DPS significantly. ([Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com), [Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com), [Warcraft Tavern](https://www.warcrafttavern.com/mop/guides/the-stone-guard/?utm_source=chatgpt.com))
