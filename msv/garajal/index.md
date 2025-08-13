@@ -1,5 +1,7 @@
-Got it — here’s the guide for **Gara'jal the Spiritbinder – Heroic 10-Man** with your raid comp and the same role-based structure.
-
+---
+title: "Stoneguard for losers"
+layout: default
+date: 2025-08-13
 ---
 
 ## Gara'jal the Spiritbinder – Heroic 10-Man
