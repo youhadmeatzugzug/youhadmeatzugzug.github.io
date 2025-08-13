@@ -1,1 +1,3 @@
-* [Stone guard](/YouHadMeAtZugZug/msv/stoneguard/)
+# MSV 10 for nerds!
+
+Check out the [Stoneguard page](msv/stoneguard/).
