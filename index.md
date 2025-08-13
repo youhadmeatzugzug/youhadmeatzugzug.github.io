@@ -1,3 +1,6 @@
 # MSV 10 for nerds!
 
-Check out the [Stoneguard page](msv/stoneguard/).
+- [The stone guard](msv/stoneguard/)
+- [Feng the accursed](msv/feng/)
+- [Gara'jal the spirit binder](msv/garajal/)
+- [The Spirit Kings](msv/spiritkings/)
