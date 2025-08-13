@@ -4,81 +4,75 @@ layout: default
 date: 2025-08-13
 ---
 
-## Strategy Overview (Heroic Stack + Energized Tiles)
+## Strategy Refresher (Heroic – Stack Method with Tiles)
 
-This fight uses the “stack” strategy: all active Guardians are stacked together to maximize cleave damage and efficiently manage mechanics. In Heroic mode, Guardians and mechanics hit much harder, so precision, cooldown usage, and movement are key. Heroic also introduces **Living Crystals** next to each Guardian—clicking them empowers tiles on the floor, giving the raid a stacking **Damage & Spirit buff** (reset at 75% and 40% boss health). Assign mobile ranged players to “paint” tiles to boost your DPS significantly. ([Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com), [Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com), [Warcraft Tavern](https://www.warcrafttavern.com/mop/guides/the-stone-guard/?utm_source=chatgpt.com))
-
-Core mechanics:
-
-* **Stacking Guardians** causes them to gain energy and thus periodically Overload, dealing mass raid-wide damage.
-* You must ensure that whichever Guardian is applying **Petrification** (i.e., reducing damage taken from a particular element) is the one that **Overloads** at the right time—this clears stacks safely. ([Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com), [Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com))
-* Avoid environmental hazards unless under a matching Petrification debuff.
-* Use defensive cooldowns to survive the Overload damage (often 500k+, combined into \~1.5M if all Guardians Overload at once). ([Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com), [Skycoach](https://skycoach.gg/blog/wow-pandaria-classic/articles/mogushan-vaults-guide?utm_source=chatgpt.com))
+You're going full stack: all three Guardians grouped together to maximize cleave DPS and simplify healer/tank positioning. Your Hunters (Shootinguatm, Zurk, Blonker) and now your Arcane Mage (Blonker) are prime candidates to handle the tile painting mechanic for the **Energized Tiles** buff—critical in Heroic mode. Clicking the Living Crystals at pull, 75%, and 40% energizes floor tiles, granting 1% Damage & Spirit per tile for your raid stack ([Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com), [Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com)).
 
 ---
 
-## Role-by-Role Instructions
+## Role-by-Role Breakdown
 
-### Tanks: Cmdrboxhead (Blood DK) & Anziano (Guardian Druid)
+### **Tanks** – Cmdrboxhead (Blood DK) & Anziano (Guardian Druid)
 
-You two will **tank all three active Guardians stacked together**. Your job:
+* Stack all three Guardians tightly and manage energy.
+* Use tank aggro swaps to ensure the petrifying Guardian reaches Overload first ([Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com), [Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com)).
+* Use major tank cooldowns (e.g., Vampiric Blood, Barkskin) to ride through Overloads.
+* Spread slightly only if environmental mechanics (mines, pools) force it.
 
-* Keep them tightly grouped and rotated between the two of you based on which Guardian has the Petrification debuff and energy levels—ensuring the petrifying one is allowed to Overload. ([Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com), [Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com))
-* Use cooldowns smartly (e.g., Dearg Grip for DK, Barkskin/ironfur for Druid) to survive the incoming Overload and heavy damage while healing stabilizes the raid. ([Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com))
-* Avoid standing in hazardous zones like Amethyst Pools or Cobalt Mines (your healers may need to push through temporarily for cleansing). ([Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com))
+### **Healers** – Staceyxoxoxo (Mistweaver Monk) & Ennk (Disc Priest)
 
-### Healers: Staceyxoxoxo (Mistweaver Monk) & Ennk (Disc Priest)
+* Line up raid-wide cooldowns (Barrier, Revival, etc.) for Overload hits (\~1.5M damage each) ([Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com)).
+* One healer should be mobile to click crystals and paint tiles.
+* Between Overloads, use big healing bursts (Renewing Mist + Uplift or Penance + Flash Heal).
 
-* Prioritize **tanking cooldowns** when Overload happens—Cohesion between heals and tank cooldowns is critical.
-* Provide raid-wide healing to survive disastrous Overload hits.
-* **Keep one of you mobile to paint tiles**—Mistweaver Monk’s mobility or Disc’s Divine Star can help. Assign one of you to click crystals at \~pull start and after 75%/40% phases, then run tiles to spread Energized buff. ([Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com), [Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com))
+### **Melee DPS** – StabyStabby (Rogue), Danifaye (Arms Warrior)
 
-### Rogue: StabyStabby (Assassination)
+* Maintain cleave uptime on stacked Guardians.
+* Use defensive CDs during Overloads (Cloak of Shadows, Rallying Cry).
+* Help with tile painting if extra coverage is needed.
 
-* Assist with **painting tiles** if needed—rogues are agile.
-* Can use defensive cooldowns (e.g., Cloak of Shadows) to help handle environmental effects like Cobalt Mines if necessary.
-* Maintain cleave pressure, helping with Burst DPS when the Energized tile buff is up.
+### **Hunters (Ranged DPS)** – Shootinguatm, Zurk (Survival), and Blonker (sorry, that's now Mage)—but originally three hunters
 
-### Warrior: Danifaye (Arms)
+* Primary tile painters: click crystals and run tiles for Energized buff at pull, 75%, and 40% ([Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com)).
+* Maintain DPS when not painting; use Deterrence or other defensives to cross hazardous zones safely.
 
-* Excellent cleave potential—split your output across all Guardians.
-* Help **paint tiles**, if not already covered by ranged, since Arms has good mobility.
-* Save cooldowns (e.g., Enrage, Die by the Sword) for Overload phases or dangerous mechanics.
+### **Arcane Mage** – Blonker (updated!)
 
-### Hunters: Shootinguatm (Beast Mastery), Zurk & Blonker (Survival)
+* **Tile Painting**: Arcane Mage mobility (Blink, Slow Fall) makes you a fantastic tile painter—grab a tile rotation at pull, 75%, 40%!
+* **Burst DPS**: With Evocation/Arcane Power, you’re ideal for nuking off Guardians quickly before energy spirals.
+* **Damage Control**: Use **Ice Block** if caught in a hazardous zone (Amethyst Pools or Cobalt Mines) without the matching Petrification or cooldowns.
 
-**Hunters are prime tile painters due to mobility—assign at least two and coordinate their usage:**
+### **Ranged DPS – Warlock** – Scumlyfe (Affliction)
 
-* On pull, click the Living Crystal, run tiles for Energized stacks, return quick.
-* Repeat at 75% and 40% boss health phases.
-* While painting, be mindful of Amethyst Pools / Cobalt Mines: only cross these hazards when under matching Petrification or with cooldowns like Deterrence. ([Warcraft Tavern](https://www.warcrafttavern.com/mop/guides/the-stone-guard/?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com))
-* Stay in range to contribute DPS when not painting.
+* Spread and refresh DoTs across all Guardians for steady cleave.
+* Use **Unending Resolve** or Healthstones in emergencies during Overload phases.
+* Can assist tile painting if needed—but prioritize DoTs if mage and hunters cover tiles.
 
-### Warlock: Scumlyfe (Affliction)
+---
 
-* Great for sustained cleave via DoTs—apply multi-target DoTs across Guardians.
-* You can also assist a tile route if needed (warp/portals not helpful here, so mostly cleave focus).
-* Use personal defensive cooldowns if overwhelmed by AoE damage during Overload. ([Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com))
+## Survival Strategy for Close Overloads
+
+1. **Prevent Overlaps** with tank swaps and energy control.
+2. **Stack Healer Coverage**: Keep the raid tight and AoE-healer focused.
+3. **Cooldown Rotation**:
+
+   * **First Overload**: Barrier (Priest), Revival (Monk)
+   * **Second Overload**: Tranquility or tank CD + raid defensives
+4. **Personal Cooldowns**: Everyone uses their class defensives—mage pops Ice Block, hunters Deterrence, rogue Cloak, etc.
+5. **Healers Pre-Fill**: Healers prep shields or HoTs just before Overload and follow up between hits.
 
 ---
 
 ## Summary Table
 
-| Role Group               | Players                                     | Key Responsibilities                                                                                                                               |
-| ------------------------ | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tanks**                | Cmdrboxhead (DK) & Anziano (Druid)          | Stack Guardians, rotate based on Petrification/Energy, use tank cooldowns, maintain cleave target focus.                                           |
-| **Healers**              | Staceyxoxoxo (MW Monk) & Ennk (Disc Priest) | Raid healing during Overloads, tank hot support, tile painting for Energized buff.                                                                 |
-| **Melee DPS**            | StabyStabby (Rogue), Danifaye (Warrior)     | Cleave DPS, tile painting if needed, defensive cooldown usage during hazards.                                                                      |
-| **Hunters (Ranged DPS)** | Shootinguatm, Zurk, Blonker                 | Primary tile painters—click crystals and paint tiles at key phases; maintain ranged cleave when not painting; manage hazards carefully.            |
-| **Ranged DPS—Warlock**   | Scumlyfe                                    | Spread DoTs for cleave, help lighten healer load with defensive cooldowns, deep DPS to finish the fight before collapsing from repeated Overloads. |
-
----
-
-## Heroic Mode Specific Tips
-
-1. **Tiles are critical**—boosting DPS and Spirit lets your healers recover faster after Overloads. Assign at least 2 hunters and a healer to paint. ([Method](https://www.method.gg/mop-classic/the-stone-guard-boss-guide-mogushan-vaults-mop-classic?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com), [Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com))
-2. **Cooldown planning**—coordinate raid-wide cooldowns (Healing Tide, Barrier, etc.) so one set is fresh for each Overload. Heroic damage is punishing. ([Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [Warcraft Tavern](https://www.warcrafttavern.com/mop/guides/the-stone-guard/?utm_source=chatgpt.com))
-3. **Awareness of mechanics**—avoid Amethyst Pools unless Amethyst Petrification is active; clear Cobalt Mines with cooldowns or wait; manage Jade Shards via healing; handle Jasper Chains by proximity or Sebastian Petrification. ([Icy Veins](https://www.icy-veins.com/mists-of-pandaria-classic/the-stone-guard-encounter-guide-strategy-abilities-loot?utm_source=chatgpt.com), [MMOJUGG](https://www.mmojugg.com/news/stone-guard-boss-guide-for-wow-mop-classic.html?utm_source=chatgpt.com))
+| Role Group               | Players                              | Key Responsibilities                             |
+| ------------------------ | ------------------------------------ | ------------------------------------------------ |
+| **Tanks**                | Cmdrboxhead, Anziano                 | Stack Guardians, tank-swaps, cooldown usage      |
+| **Healers**              | Staceyxoxoxo, Ennk                   | Raid healing, tile painting, cooldown management |
+| **Melee DPS**            | StabyStabby (Rogue), Danifaye (Arms) | Cleave, cooldowns, tile aid                      |
+| **Hunters (Ranged DPS)** | Shootinguatm, Zurk                   | Main tile painters, ranged DPS                   |
+| **Arcane Mage**          | Blonker                              | Tile painting, burst DPS, Ice Block utility      |
+| **Affliction Warlock**   | Scumlyfe                             | Sustained DoTs, defensive support                |
 
 ---
 
