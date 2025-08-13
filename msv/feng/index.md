@@ -1,5 +1,7 @@
-Got it — here’s the updated guide for **Feng the Accursed – Heroic 10-Man** using your raid comp and the same structure from Stone Guard.
-
+---
+title: "Stoneguard for losers"
+layout: default
+date: 2025-08-13
 ---
 
 ## Feng the Accursed – Heroic 10-Man
