@@ -4,10 +4,6 @@ layout: default
 date: 2025-08-13
 ---
 
-Got it — since Blonker is now an Arcane Mage and Scumlyfe is Destruction, we can tweak the plan to maximize DPS uptime and ensure tile coverage without compromising burst phases.
-
----
-
 ## Stone Guard – Heroic 10-Man (Stack Method)
 
 You’ll be stacking all three Guardians together to maximize cleave and simplify positioning. Tile painting is still critical — Energized Tiles give your group a big DPS boost.
