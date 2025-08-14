@@ -1,5 +1,5 @@
 ---
-title: "Stoneguard for losers"
+title: "Emperor for nerds"
 layout: default
 date: 2025-08-13
 ---
