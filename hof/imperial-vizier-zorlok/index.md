@@ -1,5 +1,5 @@
 ---
-title: "Zor'lok for nerds"
+title: "Imperial Vizier Zor'lok"
 layout: default
 date: 2025-08-13
 ---
