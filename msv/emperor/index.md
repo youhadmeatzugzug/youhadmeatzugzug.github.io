@@ -1,5 +1,5 @@
 ---
-title: "Emperor for nerds"
+title: "Emperor"
 layout: default
 date: 2025-08-13
 ---
