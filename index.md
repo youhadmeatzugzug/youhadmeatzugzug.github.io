@@ -1,4 +1,4 @@
-# MSV 10 for nerds!
+# MSV 10
 
 - [The stone guard](msv/stoneguard/)
 - [Feng the accursed](msv/feng/)
@@ -8,4 +8,5 @@
 - [Will of the Emperor](/msv/emperor)
 
 # HoF 10
-- ho
+
+- [Imperial Vizier Zor'lok](hof/imperial-vizier-zorlok)
