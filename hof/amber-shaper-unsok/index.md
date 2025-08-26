@@ -1,3 +1,9 @@
+---
+title: "Amber-Shaper Un'sok"
+layout: default
+date: 2025-08-13
+---
+
 Here are the instructions for your 10-man Normal difficulty raid team for the Amber-Shaper Un'sok encounter in Heart of Fear.
 
 ### **Raid-wide Strategy**
