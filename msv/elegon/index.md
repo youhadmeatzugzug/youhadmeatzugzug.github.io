@@ -1,5 +1,5 @@
 ---
-title: "Zor'lok for nerds"
+title: "Elegon for nerds"
 layout: default
 date: 2025-08-26
 ---
