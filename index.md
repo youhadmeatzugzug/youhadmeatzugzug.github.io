@@ -6,3 +6,6 @@
 - [The Spirit Kings](msv/spiritkings/)
 - [Elegon](msv/elegon/)
 - [Will of the Emperor](/msv/emperor)
+
+# HoF 10
+- ho
