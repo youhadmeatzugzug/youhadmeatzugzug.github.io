@@ -1,4 +1,8 @@
-Here are the instructions for your 10-man Normal difficulty raid team for the Wind Lord Mel'jarak encounter in Heart of Fear.
+---
+title: "Wind Lord Mel'jarak"
+layout: default
+date: 2025-08-13
+---
 
 ### **Raid-wide Strategy**
 
