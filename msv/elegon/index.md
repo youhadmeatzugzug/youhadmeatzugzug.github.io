@@ -1,7 +1,7 @@
 ---
-title: "Elegon for nerds"
+title: "Zor'lok for nerds"
 layout: default
-date: 2025-08-13
+date: 2025-08-26
 ---
 
 ## Elegon – Heroic 10-Man
