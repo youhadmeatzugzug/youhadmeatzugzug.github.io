@@ -1,4 +1,6 @@
-# MSV 10
+# MoP 10 man guides
+
+## MSV 10
 
 - [The stone guard](msv/stoneguard/)
 - [Feng the accursed](msv/feng/)
@@ -7,7 +9,7 @@
 - [Elegon](msv/elegon/)
 - [Will of the Emperor](/msv/emperor)
 
-# HoF 10
+## HoF 10
 
 - [Imperial Vizier Zor'lok](hof/imperial-vizier-zorlok)
 - [Blade Lord Ta'yak](hof/blade-lord-tayak)
