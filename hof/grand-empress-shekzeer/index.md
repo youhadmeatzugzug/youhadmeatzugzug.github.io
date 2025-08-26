@@ -1,4 +1,8 @@
-Here are the instructions for your 10-man Normal difficulty raid team for the final boss of Heart of Fear, Grand Empress Shek'zeer.
+---
+title: "Grand Empress Shek'zeer"
+layout: default
+date: 2025-08-13
+---
 
 This fight has three distinct phases, with Phase 1 and 2 alternating until the boss reaches 30% health, at which point Phase 3 begins. This is a very complex fight, so communication and execution are key.
 
