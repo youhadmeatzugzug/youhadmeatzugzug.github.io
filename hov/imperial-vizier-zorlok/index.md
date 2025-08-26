@@ -1,3 +1,9 @@
+---
+title: "Zor'lok for nerds"
+layout: default
+date: 2025-08-13
+---
+
 Here are the instructions for your 10-man Normal difficulty raid team for the Imperial Vizier Zor'lok encounter in Heart of Fear.
 
 ### **Raid-wide Strategy**
