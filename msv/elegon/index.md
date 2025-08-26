@@ -1,5 +1,5 @@
 ---
-title: "Elegon for nerds"
+title: "Elegon"
 layout: default
 date: 2025-08-26
 ---
