@@ -1,4 +1,8 @@
-Here are the instructions for your 10-man Normal difficulty raid team for the Blade Lord Ta'yak encounter in Heart of Fear.
+---
+title: "Blade Lord Ta'yak"
+layout: default
+date: 2025-08-13
+---
 
 ### **Raid-wide Strategy**
 
