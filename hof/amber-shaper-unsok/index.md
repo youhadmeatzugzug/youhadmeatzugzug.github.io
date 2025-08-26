@@ -4,8 +4,6 @@ layout: default
 date: 2025-08-13
 ---
 
-Here are the instructions for your 10-man Normal difficulty raid team for the Amber-Shaper Un'sok encounter in Heart of Fear.
-
 ### **Raid-wide Strategy**
 
 The fight against Amber-Shaper Un'sok is a two-phase encounter that requires careful positioning, add management, and a controlled burn. The main mechanic is managing the "Amber," which can be used to control adds or freeze the boss.
