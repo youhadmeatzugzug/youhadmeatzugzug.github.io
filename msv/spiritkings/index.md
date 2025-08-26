@@ -1,5 +1,5 @@
 ---
-title: "Stoneguard for nerds"
+title: "Stoneguard"
 layout: default
 date: 2025-08-13
 ---
