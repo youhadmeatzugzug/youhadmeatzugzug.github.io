@@ -6,48 +6,46 @@ date: 2025-09-09
 
 ### **Overview**
 
-The Protectors of the Endless fight is a council-style encounter against three bosses: Elder Regail, Elder Asani, and Elder Tsulong. You will engage all three simultaneously, but you will only need to defeat two of them to win the encounter. You should be able to burn down Elder Regail (tank and spank) and Elder Tsulong (just stand in the light) and save Elder Asani for last.
+This is a council-style encounter against three bosses: Elder Regail, Elder Asani, and Protector Kaolan. You will engage all three simultaneously, but you will only need to defeat two of them to win the encounter. The easiest strategy is to defeat Elder Regail and Protector Kaolan, leaving Elder Asani as the last one standing.
 
-***
+---
 
 ### **Tanks**
 
 #### **Cmdrboxhead (Blood Death Knight) and Anziano (Guardian Druid)**
 
-* **Elder Regail:** One of you will need to tank Elder Regail. Taunt him when his stacks of **Calamity** get too high (around 8-10 stacks) to reset the damage he takes. If you're tanking Regail, just do your normal tanking rotation.
-* **Elder Asani:** The other one of you will need to tank Elder Asani. Her **Tidal Wave** ability will push you back, so position yourselves near a wall to avoid getting knocked into the water and taking extra damage.
-* **Taunt Swapping:** You will need to coordinate with each other to manage the boss's stacks. Communicate with each other and taunt swap when necessary.
+* **Elder Regail:** One of you should tank Elder Regail. He casts a stacking debuff, **Calamity**, which increases his damage. You will need to taunt swap at around 8-10 stacks to reset it.
+* **Elder Asani:** The other tank should pick up Elder Asani. She casts **Tidal Wave**, which will push you back. Position yourself with your back to the wall to avoid being knocked into the water.
+* **Protector Kaolan:** **Protector Kaolan** does not need to be tanked in the traditional sense. He will be mostly static and will periodically cast abilities. However, the tank on Elder Asani should be ready to pick up any adds that spawn from him.
+* **Coordinate:** You will need to coordinate with each other to manage your taunt swaps on Regail and to handle any adds that spawn from the other bosses.
 
-***
+---
 
 ### **Healers**
 
 #### **Staceyxoxoxo (Mistweaver Monk) and Ennk (Discipline Priest)**
 
-* **Elder Regail:** Focus on healing the tank on Elder Regail, especially when his stacks of **Calamity** are high.
-* **Elder Asani:** Be prepared to heal the raid when she casts **Tidal Wave** and **Tainted Water**, as these abilities will deal significant damage to the raid.
-* **Elder Tsulong:** Tsulong will provide a healing buff to the raid when you stand in his light. Do not leave the light. It is your main job to keep everyone topped up and focused on avoiding the damage from the other two bosses.
+* **Raid Damage:** Be prepared for raid-wide damage from **Corrupted Water** and **Unleashed Dread**. Your most important job is to keep the raid topped up and prepared for the next burst of damage.
+* **Tank Healing:** Focus on healing the tank on Regail when his **Calamity** stacks get high.
+* **Unleashed Dread:** Be ready to heal players who are hit by **Unleashed Dread**, which will deal a large amount of damage to a random player.
 
-***
+---
 
 ### **Melee DPS**
 
 #### **StabyStabby (Assassination Rogue) and Danifaye (Arms Warrior)**
 
-* **Elder Regail:** Focus on Elder Regail first. This is a simple tank-and-spank fight, so just use your normal rotation to deal as much damage as you can.
-* **Elder Tsulong:** Once Regail is down, move to Tsulong and burn him down as quickly as possible. Tsulong has a raid-wide AoE called **Twilight Burst** that will deal heavy damage to the entire raid if you're not standing in his light.
-* **Stand in the Light:** Do not leave the light that Tsulong emits. If you're not in the light, you will take heavy damage and will likely die.
+* **Prioritize Regail:** Your main priority is to burn down Elder Regail first. Use all your cooldowns and single-target damage abilities on him.
+* **Asani's Tide:** Be aware of Elder Asani's **Tidal Wave**. You need to be prepared for the knockback and move out of the way of the wave.
+* **Avoid Shockwave:** Protector Kaolan will cast **Shockwave** which deals damage in a line and stuns anyone caught in it. Make sure to move out of the way when he begins to cast this ability.
 
-***
+---
 
 ### **Ranged DPS**
 
 #### **Shootinguatm (Beast Master Hunter), Zurk (Survival Hunter), Blonker (Survival Hunter), and Scumlyfe (Affliction Warlock)**
 
-* **Elder Regail:** All ranged DPS should focus on Elder Regail first. This is a simple tank-and-spank fight, so just use your normal rotation to deal as much damage as you can.
-* **Elder Tsulong:** Once Regail is down, move to Tsulong and burn him down as quickly as possible. Tsulong has a raid-wide AoE called **Twilight Burst** that will deal heavy damage to the entire raid if you're not standing in his light.
-* **Stand in the Light:** Do not leave the light that Tsulong emits. If you're not in the light, you will take heavy damage and will likely die.
-
-***
-
-Good luck and have fun!
+* **Prioritize Regail:** Your main priority is to burn down Elder Regail first. Use all your cooldowns and single-target damage abilities on him.
+* **Stay Spread Out:** Asani's **Tainted Water** will create a void zone on the ground. Make sure you are spread out so that you don't all get hit by this ability.
+* **Focus the Protector:** When Protector Kaolan becomes a priority target, focus all of your damage on him to burn him down quickly.
+* **Avoid Shockwave:** Protector Kaolan will cast **Shockwave** which deals damage in a line and stuns anyone caught in it. Make sure to move out of the way when he begins to cast this ability.
