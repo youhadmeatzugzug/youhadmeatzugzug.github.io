@@ -1,4 +1,8 @@
-Hello Cmdrboxhead and crew! Here are your instructions for the Protectors of the Endless encounter in Terrace of Endless Spring 10-man Normal mode.
+---
+title: "Protectors of the Endless"
+layout: default
+date: 2025-09-09
+---
 
 ### **Overview**
 
